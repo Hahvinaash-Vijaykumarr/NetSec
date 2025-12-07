@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    margin-right: 8px;
+}
+
+pre {
+    background: #f6f6f6;
+    padding: 10px;
+    border: 1px solid #ddd;
+}

@@ -1,0 +1,33 @@
+# Web framework
+flask==2.2.5
+flask-cors==4.0.0
+
+# ML / Data
+numpy==1.24.3
+pandas==2.2.0
+scikit-learn==1.5.0
+joblib==1.4.0
+imbalanced-learn==0.12.1
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# TensorFlow and dependencies compatible with Python 3.10
+tensorflow==2.13.0
+tensorflow-intel==2.13.0
+keras==2.13.1
+ml-dtypes==0.2.0
+protobuf==3.20.3
+tensorboard==2.13.0
+gdown==4.7.1
+
+# Jupyter & interactive notebooks
+jupyter==1.0.0
+ipykernel==6.28.0
+notebook==6.5.3
+
+# ipywidgets compatible with Python 3.10
+ipywidgets==7.7.5
+widgetsnbextension==3.6.4
+
+# Other dependencies for TensorFlow 2.x
+typing-extensions==4.5.0
