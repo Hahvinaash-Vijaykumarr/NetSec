@@ -36,6 +36,8 @@ pip install -r requirements.txt
 
 🧠 Train the Model (only required once)
 
+Dataset CICIDS-2017 from University Of New Brunswick was used
+
 Open netsec.ipynb in Jupyter Notebook or VS Code
 
 Run all cells
